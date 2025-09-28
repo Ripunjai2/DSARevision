@@ -59,6 +59,7 @@ public class Solution {
     }
 
     //Carry Forward Approach TC-O(N^2) SC-O(1)
+    //IMPORTANT as this will used for many other related problems
     public long carryForwardApproach(int []A){
         long result = 0;
         int n = A.length;
