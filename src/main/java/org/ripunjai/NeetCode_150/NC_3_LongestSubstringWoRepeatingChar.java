@@ -1,4 +1,4 @@
-package org.ripunjai.NeetCode;
+package org.ripunjai.NeetCode_150;
 
 import java.util.HashMap;
 import java.util.HashSet;
